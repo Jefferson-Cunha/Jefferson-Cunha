@@ -51,5 +51,6 @@
            </Grid>
         <Grid alignItems="center" item xs={6}>
     <a href = "mailto:jeffersonleandro72852@gmail.com"><img height="40" width="40" src="https://i.imgur.com/huVnk7P.png" target="_blank"></a>
+            </div>
 
 
