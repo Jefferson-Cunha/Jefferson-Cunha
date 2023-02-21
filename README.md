@@ -43,14 +43,5 @@
     <h2>Contatos</h2>
     <p></p>
     
-    <div align="side">
-   <Grid alignItems="center" item xs={6}>
-      
-  <a href="https://www.linkedin.com/in/jefferson-eloi-cunha/" target="_blank">
-      <img  height="40" width="40" src="https://i.imgur.com/5xEsQWe.png" target="_blank" ></a> 
-           </Grid>
-        <Grid alignItems="center" item xs={6}>
-    <a href = "mailto:jeffersonleandro72852@gmail.com"><img height="40" width="40" src="https://i.imgur.com/huVnk7P.png" target="_blank"></a>
-            </div>
-
+   
 
