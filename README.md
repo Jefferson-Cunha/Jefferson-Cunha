@@ -43,7 +43,7 @@
     <h2>Contatos</h2>
     <p></p>
     
-    <div align="side">
+    
    <Grid alignItems="center" item xs={6}>
       
   <a href="https://www.linkedin.com/in/jefferson-eloi-cunha/" target="_blank">
