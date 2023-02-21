@@ -37,7 +37,7 @@
 <div align="side">
 <a href="https://github.com/Jefferson-Cunha"> <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefferson-cunha&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-cunha&layout=compact&langs_count=7&theme=synthwave"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-Cunha&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
     </div>
     <h2>Contatos</h2>
